@@ -7,4 +7,11 @@ member:
 vehicle:
  default:
   model: cross over
-duration: all
+duration: winter
+
+
+
+:wq
+!q
+
+
